@@ -1,0 +1,44 @@
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\bird\Desktop\PS\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AboutBox.resources
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AboutBox.resources
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.InfoForm.resources
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.GroupsForm.resources
+C:\Users\bird\Desktop\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AddUser.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AboutBox.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AboutBox1.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AddUser.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.GroupsForm.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.InfoForm.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+D:\3 kurs\6 semestur\PS\PS-StudentInfoSystem\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
